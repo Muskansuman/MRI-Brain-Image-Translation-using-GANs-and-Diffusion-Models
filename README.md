@@ -1,5 +1,3 @@
-# MRI-Brain-Image-Translation-using-GANs-and-Diffusion-Models
-Deep learning framework for translating 3T MRI to 7T MRI using CycleGAN, Pix2Pix, Latent Diffusion, and Brownian Bridge Diffusion Models.
 # 3T MRI to 7T MRI Translation using Pix2Pix, CycleGAN, Conditional LDM and BBDM
 
 # Google Colab Notebook
@@ -241,7 +239,7 @@ The experimental results demonstrate that diffusion-based approaches, particular
 
 ## Author
 
-**Muskan Suman**
+**Pranav Deshpande**
 IIT Jodhpur
 * Deep Learning 
 * Medical Imaging 
