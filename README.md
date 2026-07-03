@@ -1,4 +1,4 @@
-# MRI_BRAIN_Image_to_Image_Translation
+# MRI-Brain-Image-Translation-using-GANs-and-Diffusion-Models
 Deep learning framework for translating 3T MRI to 7T MRI using CycleGAN, Pix2Pix, Latent Diffusion, and Brownian Bridge Diffusion Models.
 # 3T MRI to 7T MRI Translation using Pix2Pix, CycleGAN, Conditional LDM and BBDM
 
