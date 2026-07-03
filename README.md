@@ -239,7 +239,7 @@ The experimental results demonstrate that diffusion-based approaches, particular
 
 ## Author
 
-**Pranav Deshpande**
+**Muskan Suman**
 IIT Jodhpur
 * Deep Learning 
 * Medical Imaging 
